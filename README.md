@@ -1,3 +1,3 @@
 # Netflix
 
-## [LINK]https://igortitoneli.github.io/Netflix/
+## [LINK](https://igortitoneli.github.io/Netflix/)
